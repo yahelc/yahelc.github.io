@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/yahel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://yahel.com
+  * I am yahel (https://keybase.io/yahel) on keybase.
+  * I have a public key with fingerprint 8C58 12D4 4B60 2BD6 0C6F  F414 83E5 C482 EFA2 8610
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8c5812d44b602bd60c6ff41483e5c482efa28610",
+            "host": "keybase.io",
+            "key_id": "83E5C482EFA28610",
+            "uid": "cb35850b5854dff3582656202b279800",
+            "username": "yahel"
+        },
+        "service": {
+            "hostname": "yahel.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396038028,
+    "expire_in": 157680000,
+    "prev": "9e555b367631f93902fac5f91e9a05f575f2ae92d83f725e2f591b3f389e0afe",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMTovfbLBO55EksYTx94ncQQbHqzp1opKT+lUsmqWik7FUylZealpxYV
+FGXmlShZKVkkm1oYGqWYmCSZGRglpZgZJJulpZkYmlgYp5omm1gYpaYlGlmYGRoo
+6Shl5BeDdACNSUosTtXLzAeKATnxmSkgc4xdTZ2B6l3dHGHqS8ESyUnGphamBklA
+wiQlLQ3IMTIzNTMCWmZkbmlhAFZYnFqUl5ibClRdmZiRmqNUq6MEFCrLTE4FORhk
+L7K0XnJ+LlBXQVF+SX5yfg5QOKOkpMAKpKuksgCkrDw1KR5qQHxSZl4K0MdADWWp
+RcWZ+XlKVoZAlcklmSATDY0tzQyMLQyMLHSUUisKMotS4zNBKkzNzYBuMzAAWZNa
+BjTSMtXU1DTJ2MzczNgwzdLY0sAoLTHZNM3SMNUy0cA0zdTcNM0oMdXSKMXCOM3c
+yDTVKM3U0jDJOM3YwjLVIDEtVQnkpcK8fCUrY6AzE9OBRhZnpucllpQWpSrVdjLJ
+sDAwMjGwsTKB4oyBi1MAFpMOl/n/59V3v3y7/ULFTJOg81frU3r4zrTc3S+/3Wzj
+uQ02QhMeB74tnmfydMpB8+df3AziXl2e5JrsblyZGrj08V3b7Jy37ZIM+iEKd6el
+R3JKW4bumXfQRs/x44kZLuHfj51X1G/363WfK6W0Qntm00XZcse3X8Rlu9gnn1tm
+/jnrLodJYIeL6cf1zjab48oPmT8M4k1au/FTj1NdZ8OhP6w7u/fNk5CZPjPif9Dm
+YhZlpdX+W85ci2552P1xVxPPfyH72V3JUcy/Jq8/dHVq0i6lMG/pjP3fn8wNWfDI
+cw9zSNOlvOMnxBLnVSuJzLKayPRxvXdyy6yN1z+fO1YmnJeYGCt/zrRmh1rF/jhh
+iVU3qh0bAv4J+lwJZb/Y3GWifbZ5yYTjny8zsW1bHj6RT+RrnXD+jOm2N1cpzjZu
+2fC4ovvJpIubNmxYUqY4M3+W9G9p6V0+feFTm6vUE2cKrrFdpXr3FlP30bTCB0FX
+eUPF7zzXN+8S7JX79MX0OM+T/i8Xt039ONWZOezSy9zlKT2b/MMM5m92sC/39V1b
+uONcIue1ZVduBTb3FgjW/T/zQXP52Sa7jDtFW4/sZkm+0cgjPX269I45sS/z33Mr
+3P+SFGA9y7I07YD9bN+m5WezfZ+7qTho3PvyMPaZbdTSnoIYsbTrmlwRTQbbz22S
+l5h1mfn5kUcTrp9W2LZEudUjrD56efD7Ey9uTrIxOXfAAQA=
+=Z8Q0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yahel
+
+==================================================================
+
